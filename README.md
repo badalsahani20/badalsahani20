@@ -3,7 +3,7 @@
 I'm a passionate Java developer with a strong foundation in backend development, currently focusing on building secure and scalable applications using Spring Boot. I'm actively seeking opportunities to contribute to impactful projects and grow as a software engineer.
 
 ## 🔧 Skills
-- **Languages**: Java, JavaScript (basic), Python  
+- **Languages**: Java, JavaScript, Python  
 - **Frameworks**: Spring Boot, React, Tailwind 
 - **Technologies**: JWT, JPA, MySQL, Git  
 - **Concepts**: RESTful APIs, Authentication, Database Design  
