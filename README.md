@@ -18,16 +18,14 @@ A console-based Java simulation of an ATM featuring balance check, withdrawal, a
 *Tech:* Java, OOPs, File Handling
 
 ### 🎵 **Spotify Clone**
-A front-end focused music streaming clone featuring playlists and controls.  
-*Tech:* React, TailwindCSS, Zustand (state management)
+Spotify-Clone — A full-stack music streaming clone built with React, Zustand (state management), Node/Express backend and MongoDB.
 
 ### 👨‍🍳 **Chef Mistral AI**
 A React web app that suggests recipes based on provided ingredients using AI prompts.  
 *Tech:* React, API Integration, CSS
 
 ### 💼 **Personal Portfolio**
-A responsive web portfolio showcasing my projects, skills, and contact info.  
-*Tech:* HTML, CSS, JavaScript
+Personal Portfolio — A frontend-focused project built with React & tailwind to showcasing my work, skills, and contact information.
 
 ---
 
