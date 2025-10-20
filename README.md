@@ -1,23 +1,44 @@
-# Hi, I'm Badal Sahani! 👋
+# 👋 Hi, I’m Badal Sahani
+I’m a **full-stack developer** transitioning from Java backend to the **MERN stack**.  
+I love building clean, fast, and scalable web applications with a strong focus on user experience and backend performance.
 
-I'm a passionate Java developer with a strong foundation in backend development, currently focusing on building secure and scalable applications using Spring Boot. I'm actively seeking opportunities to contribute to impactful projects and grow as a software engineer.
+---
 
-## 🔧 Skills
-- **Languages**: Java, JavaScript, Python  
-- **Frameworks**: Spring Boot, React, Tailwind 
-- **Technologies**: JWT, JPA, MySQL, Git  
-- **Concepts**: RESTful APIs, Authentication, Database Design  
+## 🧠 What I Do
+- ⚙️ **Frontend:** React, JavaScript, TailwindCSS  
+- 🧩 **Backend:** Express, Node.js  
+- 🗃️ **Database:** MongoDB, PostgreSQL  
+- 🔧 **Other Tools:** Git, REST APIs, Postman, Vite  
 
-## 🌟 Featured Projects
-- **[Authentication System](https://github.com/badalsahani20/Expense-Tracker-App)**: Building a secure user authentication system using Spring Security and JWT, with features like login, token refresh, and role-based access control. Currently implemented token expiration validation to ensure security, with more features in development. *(In Progress)*  
-- **[ATM-SIMULATOR](https://github.com/badalsahani20/ATM-SIMULATOR)**: A Java-based ATM simulation with features like balance checks, withdrawals, and deposits, showcasing my ability to handle core programming logic and user interactions.  
+---
 
-## 🗒 What I'm Working On
-- Deepening my expertise in Spring Boot by building RESTful APIs and completing my authentication system.  
-- Preparing for backend development roles by creating portfolio projects and practicing system design.  
+## 🚀 Projects
+### 🏦 **ATM Simulator**
+A console-based Java simulation of an ATM featuring balance check, withdrawal, and deposit operations.  
+*Tech:* Java, OOPs, File Handling
 
-## 📫 Let's Connect
-- **LinkedIn**: [www.linkedin.com/in/badalsahani20](https://www.linkedin.com/in/badalsahani20)  
-- **Email**: [badalsahani233@gmail.com](mailto:badalsahani233@gmail.com)  
+### 🎵 **Spotify Clone**
+A front-end focused music streaming clone featuring playlists and controls.  
+*Tech:* React, TailwindCSS, Zustand (state management)
 
-I'm excited to collaborate on innovative projects and bring value to a team. Feel free to reach out!
+### 👨‍🍳 **Chef Mistral AI**
+A React web app that suggests recipes based on provided ingredients using AI prompts.  
+*Tech:* React, API Integration, CSS
+
+### 💼 **Personal Portfolio**
+A responsive web portfolio showcasing my projects, skills, and contact info.  
+*Tech:* HTML, CSS, JavaScript
+
+---
+
+## 🎯 Currently Working On
+- Building REST APIs with **Express.js**
+- Strengthening frontend structure with **custom React hooks**
+- Learning system design and backend architecture principles
+
+---
+
+## 📫 Let’s Connect
+- 📧 Email: **badalsahani233@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/badalsahani20](https://www.linkedin.com/in/badalsahani20)
+- 🐙 GitHub: [github.com/badalsahani20](https://github.com/badalsahani20)
