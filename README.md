@@ -40,4 +40,4 @@ Personal Portfolio — A frontend-focused project built with React & tailwind to
 - 📧 Email: **badalsahani233@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/badalsahani20](https://www.linkedin.com/in/badalsahani20)
 - 🐙 GitHub: [github.com/badalsahani20](https://github.com/badalsahani20)
-- 👤 Personal Portfolio: badalsahani.vercel.app
+- 👤 Personal Portfolio: (https://badalsahani.vercel.app)
