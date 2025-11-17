@@ -7,7 +7,7 @@ I love building clean, fast, and scalable web applications with a strong focus o
 ## 🧠 What I Do
 - ⚙️ **Frontend:** React, JavaScript, TailwindCSS  
 - 🧩 **Backend:** Express, Node.js  
-- 🗃️ **Database:** MongoDB, PostgreSQL  
+- 🗃️ **Database:** MongoDB, SQL  
 - 🔧 **Other Tools:** Git, REST APIs, Postman, Vite  
 
 ---
